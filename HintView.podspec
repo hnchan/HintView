@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                         Once the user touch the screen again, the hint view will disappear automatically.
                       DESC
   s.homepage         = "https://github.com/hnchan/HintView"
-  s.screenshots      = "https://github.com/hnchan/HintView/screenshot.png"
+  s.screenshots      = "https://raw.githubusercontent.com/hnchan/HintView/master/screenshot.png"
   s.license          = 'MIT'
   s.author           = { "Alex Chan" => "hnchan@gmail.com" }
   s.source           = { :git => "https://github.com/hnchan/HintView.git", :tag => s.version.to_s }
