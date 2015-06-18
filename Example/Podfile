@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'HintView_Example', :exclusive => true do
+  pod "HintView", :path => "../"
+end
+
+target 'HintView_Tests', :exclusive => true do
+  pod "HintView", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+end

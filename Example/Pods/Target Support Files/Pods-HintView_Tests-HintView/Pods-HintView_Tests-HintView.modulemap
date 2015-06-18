@@ -1,0 +1,6 @@
+framework module HintView {
+  umbrella header "Pods-HintView_Tests-HintView-umbrella.h"
+
+  export *
+  module * { export * }
+}

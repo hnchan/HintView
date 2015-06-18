@@ -1,0 +1,20 @@
+PODS:
+  - Expecta (1.0.0)
+  - HintView (0.1.0)
+  - Specta (1.0.2)
+
+DEPENDENCIES:
+  - Expecta
+  - HintView (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  HintView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 32604574add2c46a36f8d2f716b6c5736eb75024
+  HintView: 8786f4e13645deb3c788c323216c97c4f6df2b15
+  Specta: 9cec98310dca411f7c7ffd6943552b501622abfe
+
+COCOAPODS: 0.37.2
